@@ -1,0 +1,2 @@
+# IQR
+Inter Quartile Range
